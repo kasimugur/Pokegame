@@ -64,6 +64,6 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
-
+.mp4
 # Windows shortcuts
 *.lnk
